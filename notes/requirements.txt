@@ -1,0 +1,8 @@
+imageio 
+numpy 
+matplotlib 
+jupyter 
+spyder 
+tqdm 
+urllib3 
+h5py
